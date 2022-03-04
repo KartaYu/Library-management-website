@@ -2,6 +2,10 @@
 ### Web Framework
 - Django3
 - ReactJs
+### Tool
+- Python
+- Javascript
+- HTML
 
 ### System Architecture
 ![image](https://github.com/KartaYu/Library-management-website/blob/main/Pic/arch.png)
@@ -43,7 +47,7 @@
 - Login By Face : [Link](https://youtu.be/R6sM8bBUd-4)
 
 ### Source Code
-- https://reurl.cc/mqr8Ll
+- https://tinyurl.com/335k9ew8
 
 
 
