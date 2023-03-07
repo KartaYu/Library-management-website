@@ -1,8 +1,11 @@
 # Library Management and Entrance Control System With Face Recognition by FaceNet 
-### Web Framework
-- Django3
+### Frontend Web Framework
 - ReactJs
-### Tool
+
+### Backend Web Framework
+- Django3
+- 
+### Programming Language
 - Python
 - Javascript
 - HTML
