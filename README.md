@@ -4,7 +4,7 @@
 
 ### Backend Web Framework
 - Django3
-- 
+
 ### Programming Language
 - Python
 - Javascript
