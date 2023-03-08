@@ -49,12 +49,3 @@
 - Django + ReactJs Login Page Demo : [Link](https://youtu.be/-am0cs0xbE)
 - Login By Face : [Link](https://youtu.be/R6sM8bBUd-4)
 
-### Source Code
-- https://tinyurl.com/335k9ew8
-
-
-
-
-
-
-
