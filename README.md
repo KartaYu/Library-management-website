@@ -45,7 +45,4 @@
 - User Authentication (BackEnd)
 ![image](https://github.com/KartaYu/Library-management-website/blob/main/Pic/User%20Auth.png)
 
-### Demo Video
-- Django + ReactJs Login Page Demo : [Link](https://youtu.be/-am0cs0xbE)
-- Login By Face : [Link](https://youtu.be/R6sM8bBUd-4)
 
